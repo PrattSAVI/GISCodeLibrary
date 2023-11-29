@@ -1,2 +1,2 @@
 # GISCodeLibrary
-This is a library of code for students in GIS-related courses at Pratt Institute.  
+This is a library of code for students in GIS-related courses at Pratt Institute. These are tools that might help you build better maps or manage data more efficiently, using common GIS applications in Python, R, and JS. Materials are either borrowed from public repositories or produced by Pratt faculty and students (please cite according to the documentation on each individual item).
